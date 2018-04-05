@@ -101,7 +101,7 @@ class Template extends React.Component {
 
         </div>
 
-        {/*<div id="bg"></div>*/}
+        <div id="bg"></div>
 
         <video id="bgVideo" autoPlay loop poster="../images/bg.jpg">
           <source src={bgvideo} type="video/webm"></source>

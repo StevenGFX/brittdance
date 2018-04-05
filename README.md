@@ -1,9 +1,9 @@
-# gatsby-starter-dimension
-Gatsby starter based on the Dimension site template, designed by [HTML5 UP](https://html5up.net/dimension). Check out https://codebushi.com/gatsby-starters/ for more Gatsby starters and templates.
+# brittdance
+Gatsby starter fork based on the Dimension site template, designed by [HTML5 UP](https://html5up.net/dimension). Check out https://codebushi.com/gatsby-starters/ for more Gatsby starters and templates.
 
 ## Preview
 
-http://gatsby-dimension.surge.sh/
+Soon...
 
 ## Installation
 

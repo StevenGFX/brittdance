@@ -102,7 +102,7 @@ class Template extends React.Component {
         {/*<div id="bg"></div>*/}
 
         <video id="bgVideo" autoPlay loop poster="../images/bg.jpg">
-          <source src="https://a.uguu.se/W6fyTvQpzkhH_ballet.webm" type="video/webm"></source>
+          <source src="../videos/brittney-brewer-ballet-jimani.webm" type="video/webm"></source>
         </video>
 
       </div>

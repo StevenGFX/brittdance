@@ -6,6 +6,8 @@ import Header from '../components/Header'
 import Main from '../components/Main'
 import Footer from '../components/Footer'
 
+import bgvideo from '../videos/brittney-brewer-ballet-jimani.webm'
+
 class Template extends React.Component {
   constructor(props) {
     super(props)
@@ -102,7 +104,7 @@ class Template extends React.Component {
         {/*<div id="bg"></div>*/}
 
         <video id="bgVideo" autoPlay loop poster="../images/bg.jpg">
-          <source src="../videos/brittney-brewer-ballet-jimani.webm" type="video/webm"></source>
+          <source src={bgvideo} type="video/webm"></source>
         </video>
 
       </div>
